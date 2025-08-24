@@ -23,7 +23,7 @@ print(joke)
 print("Write a python program to print the contents of a directory using the os module. Search online for the function which does it")
 import os
 
-def print_directory_contents(path=''):
+def print_directory_contents(path='/'):
     """Prints all entries in the given directory."""
     try:
         entries = os.listdir(path)
