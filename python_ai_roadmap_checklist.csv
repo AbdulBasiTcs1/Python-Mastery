@@ -1,0 +1,17 @@
+Week,Theme,Key Tasks,Deliverable,Proof (link to GitHub/README),Status (Todo/Doing/Done)
+1,Core Python I,"Syntax, variables, control flow; 10 small problems; start python-101-automation repo",Repo initialized; 10 scripts committed,,Todo
+2,Core Python II,"Functions, modules, file I/O, exceptions; 10 problems; build CLI converter",CLI converter with README,,Todo
+3,Core Python III,"Collections (list/dict/set/tuple), comprehensions; 10 problems; bulk file renamer",Bulk renamer script + tests,,Todo
+4,Craftsmanship & Tooling I,"PEP8, type hints, docstrings; pytest basics; refactor earlier scripts",Refactored scripts with type hints and docstrings,,Todo
+5,Craftsmanship & Tooling II,"Logging, CLI packaging; Git branching; create expense-cli-py with tests",expense-cli-py repo with CI and >60% test coverage,,Todo
+6,Data Handling & SQL I,NumPy basics; pandas Series/DataFrame; import/export CSV/Excel,Notebook: data import/cleaning examples,,Todo
+7,Data Handling & SQL II,"Groupby, joins, missing values; matplotlib charts; start data-cleaning-pipeline",EDA notebook + 3 charts,,Todo
+8,Statistics for AI I,Descriptive stats; distributions; simulations (coin/dice),stats-from-scratch repo: mean/var/std functions,,Todo
+9,Statistics for AI II,Confidence intervals; hypothesis testing; z/t-tests; write explanations,Notes + code for CI/HT; summary markdown,,Todo
+10,Statistics for AI III,Linear regression from scratch + with sklearn; compare results,Linear regression from scratch + sklearn comparison notebook,,Todo
+11,ML Foundations I,"kNN, linear/logistic regression; train/test split; metrics (acc, prec/recall, F1)",Classification project baseline notebook,,Todo
+12,ML Foundations II,Trees/RandomForest; feature scaling/encoding; cross-validation pipelines,Pipelines notebook + metrics report,,Todo
+13,ML Foundations III,Model comparison & tuning (GridSearchCV); Streamlit demo app,Streamlit demo app deployed locally; README with screenshots,,Todo
+14,Deep Learning Intro I,PyTorch tensors & autograd; dataset/dataloader; simple MLP,pytorch-basics repo created; tensor and dataloader demos,,Todo
+15,Deep Learning Intro II,"Training loop, early stopping; save/load checkpoints; plots",Training loop notebook + saved model,,Todo
+16,Deep Learning Intro III,Optional CNN/NLP mini-project; responsible AI notes; finalize portfolio,Mini DL project + portfolio polish,,Todo
